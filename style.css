@@ -1,0 +1,205 @@
+body {
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.navbarspacey {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 50px;
+    background: #ffffff;
+    height: 30px;
+}
+
+
+.logospacey {
+	width: 100px;
+}
+
+.linkspacey {
+    justify-content: space-around;
+    width: 50%;
+    text-decoration: none;
+    margin: 10px;
+    font: Open Sans;
+    font: 100px;
+	}
+
+.contenantspacey {
+	background-image: url("https://trustmyscience.com/wp-content/uploads/2017/01/totalit%C3%A9-univers-observable-titre.jpg");
+  	background-size: cover; 
+  	height: 650px;
+  }
+
+.titrespacey {
+    margin:0;
+    padding-top: 10%;
+    font-size: 100px;
+    font: bold;
+    text-align: center;
+    color: white;
+}
+
+.sloganspacey {
+    font-size: 45px;
+    margin: 10px;
+    text-align: center;
+    color: white;
+}
+
+.societespacey {
+	background-color: #444141;
+		display: flex;
+		font: oblique;
+	margin: 0px;
+	padding: 20px;
+	text-align: left;
+}
+
+.helenemust{
+	padding: 20px;
+	justify-content: space-around;
+	width: 300px;
+	margin: 30px;
+}
+
+.societe2spacey {
+	margin: 80px;
+color: white;
+text-align: center;
+font: bold;
+}
+
+.paraspacey {
+	margin: 70px;
+	color: white;
+}
+
+#voyagesspacey {
+	display: flex;
+	justify-content: space-around;
+	padding: 50px;
+	text-align: center;
+}
+
+.image1spacey {
+	width: 350px;
+}
+
+.image2spacey {
+	width: 350px;
+}
+
+.image3spacey {
+	width: 350px;
+}
+
+/*#flotte {
+	display: flex;
+	justify-content: space-around;
+	padding: 50px;
+	text-align: center;
+	background-color: #000000;
+}
+
+#flotte2 {
+	display: flex;
+	justify-content: space-around;
+	padding: 50px;
+	text-align: center;
+	background-color: #000000;
+}
+
+.flotte3{
+	color: #ffffff;
+}*/
+
+.vaisseau {
+
+background: black;
+padding: 50px;
+}
+
+.vaisseau2 {
+
+background: black;
+padding: 50px;
+}
+
+img {
+	width: 300px;
+}
+
+.title {
+	text-align: center;
+	font-size: 25px;
+	color: white;
+ 	font: Open Sans;
+	font: bold;
+}
+
+.mapspacey {
+float: left;
+	margin: 30px;
+	padding: 30px 30px 30px 30px;
+    justify-content: space-between;
+    align-content: center;
+
+}
+
+iframe {
+border: 5px;
+border: solid;
+color: #cfcfd1;
+}
+
+.adressespacey {
+	font-family: bold;
+	align-content: center;
+	font-size: 30px;
+	padding: 200px;
+}
+
+.rowspacey {
+	width: 300px;
+	margin: 30px;
+	padding: 10px;
+
+}
+
+.mentionspacey {
+	padding: 10px;
+	background-color: #ededef;
+	text-align: center;
+}
+
+
+.newsletter {
+	padding: 150px;
+	background: #cfcfd1; 
+	clear: left; 
+	font: 14px Helvetica,Arial,sans-serif;
+}
+
+.linkspaceyr {
+	float: right;
+	margin: 30px;
+	display: space-between;
+	width: 40px;
+}
+
+.resauspacey {
+	padding: 100px;
+
+	background-color: #cfcfd1; 
+}
+
+.wrapperspacey{
+	justify-content: center; 
+	padding: 50%;
+}
+.letterspacey {
+	font-size: 150%;
+}
+
